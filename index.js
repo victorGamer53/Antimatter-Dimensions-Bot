@@ -76,4 +76,4 @@ const timer = ms => new Promise(
 
 
 
-bot.login(Config.token);
+bot.login(Config.token)
